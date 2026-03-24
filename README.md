@@ -1,1 +1,1 @@
-# ai-resume-optimizer
+An AI tool that parses PDF resumes and compares them against Job Descriptions using semantic similarity. It identifies missing keywords and provides LLM-generated suggestions to improve candidate matching
